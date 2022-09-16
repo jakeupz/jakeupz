@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 <img src="https://media.discordapp.net/attachments/669796626784714756/1020035199247056906/image0-1-3.gif" alt="funne cat" >
 
-<div class="tenor-gif-embed" data-postid="25013028" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/cat-gif-25013028">Cat GIF</a>from <a href="https://tenor.com/search/cat-gifs">Cat GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>"
+<div class="tenor-gif-embed" data-postid="25013028" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/cat-gif-25013028"></a><a href="https://tenor.com/search/cat-gifs"></a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
