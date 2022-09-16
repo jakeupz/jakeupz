@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 <img src="https://media.discordapp.net/attachments/669796626784714756/1020035199247056906/image0-1-3.gif" alt="funne cat" >
 
-<img src="https://tenor.com/bQ7b6.gif">
+<img src="https://tenor.com/bQ7b6.gif" alt="lol">
