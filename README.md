@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome to my Github 👋
 
 <!--
 **jakeupz/jakeupz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="https://media.discordapp.net/attachments/669796626784714756/1020035199247056906/image0-1-3.gif" alt="funne cat" >
+
+<img src="https://tenor.com/view/cat-gif-25013028" alt=":D" >
