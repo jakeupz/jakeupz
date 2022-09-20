@@ -16,7 +16,5 @@ Here are some ideas to get you started:
 
 <img src="https://media.discordapp.net/attachments/669796626784714756/1020035199247056906/image0-1-3.gif" alt="funne cat" >
 <picture>
-   <source media="(min-width:1024px)" srcset="dog-big.jpg">
-   <source media="(min-width:465px)" srcset="dog-small.jpg">
    <img src="C:/Users/jacob/Downloads/IMG_4505.jpg" alt="Flowers" style="width:auto;">
  </picture>
