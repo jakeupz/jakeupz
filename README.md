@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 <picture>
    <source media="(min-width:1024px)" srcset="dog-big.jpg">
    <source media="(min-width:465px)" srcset="dog-small.jpg">
-   <img src="IMG_4505.jpg" alt="Flowers" style="width:auto;">
+   <img src="../Downloads/IMG_4505.jpg" alt="Flowers" style="width:auto;">
  </picture>
