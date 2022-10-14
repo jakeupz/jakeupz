@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on my Discord Bot in Python using Tweepy 
-- 🌱 I’m currently learning MongoDB, AWS, C++, and Python
+- 🌱 I’m currently learning MongoDB, Docker, Kubernetes, and AWS.
 - 👯 I’m looking to collaborate on anything DevOps or video game related 😊
 - 🤔 I’m looking for help with understanding how to read documentation more efficently 😵‍💫
 - 💬 Ask me about AI and Game Development
