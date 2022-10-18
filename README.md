@@ -1,3 +1,5 @@
+body {background-color: powderblue;}
+<body> 
 ### Welcome to my Github 👋
 
 <!--
@@ -11,7 +13,11 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with understanding how to read documentation more efficently 😵‍💫
 - 💬 Ask me about AI and Game Development
 
+
+
 <img src="https://media.discordapp.net/attachments/669796626784714756/1020035199247056906/image0-1-3.gif" alt="funne cat" >
 <picture>
    <img src="C:/Users/jacob/Downloads/IMG_4505.jpg" alt="Flowers" style="width:auto;">
  </picture>
+
+  </body> 
