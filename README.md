@@ -6,7 +6,7 @@
 
 📚 Working on:
   <div>
-<p align="left"> <img src="https://user-images.githubusercontent.com/32036535/87276097-dd011780-c49c-11ea-980f-6b27e617faad.png" width="100"/> <img align="center" src="https://png2.cleanpng.com/sh/5233c0ffd8bb12330eb997b1cb6034f5/L0KzQYm3VsEzN5xuj5H0aYP2gLBuTfNwdaF6jNd7LXnmf7B6TfRqe5R0itY2bHBqf37xlfRodZZzjJ9qcHBmcb3CkQNmNaQyfNt8Y3B1dH68gsFnapZoStRrZnLpQHAAUcc4PGE5TqMAMki7QIi4UMY4P191htk=/kisspng-computer-icons-discord-logo-judgment-apocalypse-s-discord-5b1fbec2bbfbf0.71774046152880710677.png" alt="Discord Bot" style="position: relative; top: 4px;" width="50"/>  </p>
+<p align="left"> <img src="https://user-images.githubusercontent.com/32036535/87276097-dd011780-c49c-11ea-980f-6b27e617faad.png" width="100"/> <img align="center" src="https://png2.cleanpng.com/sh/5233c0ffd8bb12330eb997b1cb6034f5/L0KzQYm3VsEzN5xuj5H0aYP2gLBuTfNwdaF6jNd7LXnmf7B6TfRqe5R0itY2bHBqf37xlfRodZZzjJ9qcHBmcb3CkQNmNaQyfNt8Y3B1dH68gsFnapZoStRrZnLpQHAAUcc4PGE5TqMAMki7QIi4UMY4P191htk=/kisspng-computer-icons-discord-logo-judgment-apocalypse-s-discord-5b1fbec2bbfbf0.71774046152880710677.png" alt="Discord Bot" style="position: relative; top: 50px;" width="50"/>  </p>
 </div>
 
 
