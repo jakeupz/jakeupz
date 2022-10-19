@@ -4,7 +4,7 @@
 <p align="center"> A passionate Software Developer still learning the ropes in order to become a DevOps Engineer. I am currently a Quality Assurance Technician/Engineer that works on military projects. Here you will see a lot of video game inspired projects as that is a hobby of mine besides experimenting in Docker and Kubernetes while also creating my Tweepy Discord bot!</p>
 
 📚 Learning:
-<p align="left"> ![image](https://user-images.githubusercontent.com/50970307/196757794-3cbcfc62-a25b-40a0-835a-0825b9d1cbf3.png)![image](https://user-images.githubusercontent.com/50970307/196757795-8b532916-489d-476e-b6ab-1b126b0247c4.png)
+<p align="left> <img src="https://user-images.githubusercontent.com/50970307/196757794-3cbcfc62-a25b-40a0-835a-0825b9d1cbf3.png)![image](https://user-images.githubusercontent.com/50970307/196757795-8b532916-489d-476e-b6ab-1b126b0247c4.png">
  </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jakeupz&label=Profile%20views&color=0e75b6&style=flat" alt="jakeupz" /> </p>
