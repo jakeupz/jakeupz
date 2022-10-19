@@ -9,7 +9,7 @@
 <p align="left"> <img src="https://user-images.githubusercontent.com/32036535/87276097-dd011780-c49c-11ea-980f-6b27e617faad.png" width="100"/> </p>
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jakeupz&label=Profile%20views&color=0e75b6&style=flat" alt="jakeupz" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jakeupz&label=Profile%20views&color=0e75b6&style=flat" alt="jakeupz"  /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
