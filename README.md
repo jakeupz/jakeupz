@@ -3,9 +3,9 @@
 
 <p align="center"> A passionate Software Developer still learning the ropes in order to become a DevOps Engineer. I am currently a Quality Assurance Technician/Engineer that works on military projects. Here you will see a lot of video game inspired projects as that is a hobby of mine besides experimenting in Docker and Kubernetes while also creating my Tweepy Discord bot!</p>
 
-<div>
+
 📚 Working on:
-  
+  <div>
 <p align="left"> <img src="https://user-images.githubusercontent.com/32036535/87276097-dd011780-c49c-11ea-980f-6b27e617faad.png" width="100"/> </p>
 </div>
 
