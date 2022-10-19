@@ -4,7 +4,7 @@
 <p align="center"> A passionate Software Developer still learning the ropes in order to become a DevOps Engineer. I am currently a Quality Assurance Technician/Engineer that works on military projects. Here you will see a lot of video game inspired projects as that is a hobby of mine besides experimenting in Docker and Kubernetes while also creating my Tweepy Discord bot!</p>
 
 📚 Learning:
-<p align="left> <img src="[https://camo.githubusercontent.com/ddbeaac0298ab7864fff9ed11ff78cc48623e4ff75b6ba770ceeb80fb2aa9685/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3030303030303f7374796c653d666c6174266c6f676f3d6a617661736372697074](https://camo.githubusercontent.com/ddbeaac0298ab7864fff9ed11ff78cc48623e4ff75b6ba770ceeb80fb2aa9685/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3030303030303f7374796c653d666c6174266c6f676f3d6a617661736372697074)">
+<p align="left> <img src="https://camo.githubusercontent.com/ddbeaac0298ab7864fff9ed11ff78cc48623e4ff75b6ba770ceeb80fb2aa9685/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3030303030303f7374796c653d666c6174266c6f676f3d6a617661736372697074">
  </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jakeupz&label=Profile%20views&color=0e75b6&style=flat" alt="jakeupz" /> </p>
