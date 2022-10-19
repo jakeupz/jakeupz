@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jacob</h1>
 
 
+<p align="center"> A passionate Software Developer still learning the ropes in order to become a DevOps Engineer. I am currently a Quality Assurance Technician/Engineer that aspires to be a DevOps Engineer. Here you will see a lot of video game inspired projects as that is a hobby of mine besides experimenting in Docker and Kubernetes while also creating my Tweepy Discord bot!</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jakeupz&label=Profile%20views&color=0e75b6&style=flat" alt="jakeupz" /> </p>
 
 <h3 align="left">Connect with me:</h3>
