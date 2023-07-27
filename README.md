@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jacob</h1>
 
 
-<p align="center"> A passionate Software Developer still learning the ropes in order to become a DevOps Engineer. I am currently a Quality Assurance Technician/Engineer that works on military projects. Here you will see a lot of video game inspired projects as that is a hobby of mine besides experimenting in Docker and Kubernetes while also creating my Tweepy Discord bot!</p>
+<p align="center"> A passionate Software Developer still learning the ropes in order to become a Software Engineer. I am currently a Quality Assurance Technician/Engineer that works on military projects. Here you will see a lot of video game inspired projects as that is a hobby of mine besides experimenting in Docker and Kubernetes while also creating my Tweepy Discord bot!</p>
 
 
 📚 Working on:
