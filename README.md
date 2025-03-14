@@ -6,8 +6,11 @@
 
 <h3 align="center">📚 Currently Working On 📚</h3>
 <div align="center">
-    <img src="https://user-images.githubusercontent.com/32036535/87276097-dd011780-c49c-11ea-980f-6b27e617faad.png" width="100"/>
-    <img src="https://images.squarespace-cdn.com/content/v1/63d40fe2cbd65e16cb8098b6/6a333a65-b3e1-45ac-8688-4db4f61f40da/discord%2Bbot.png?format=2500w" alt="Discord Bot" width="50"/>
+    <p> 
+        Discord bot with the Grok API Library 
+        <img src="https://images.squarespace-cdn.com/content/v1/63d40fe2cbd65e16cb8098b6/6a333a65-b3e1-45ac-8688-4db4f61f40da/discord%2Bbot.png" alt="Discord Bot" width="40"/>
+        <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/grok.png" alt="Grok AI" width="35"/>
+    </p>    
 </div>
 
 <h3 align="center">👾 Connect with Me 👾</h3>
