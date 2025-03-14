@@ -1,7 +1,7 @@
 <h1 align="center" style="color: #006400;">Hi, I'm Bacon!</h1>
 
 <p align="center">
-    A passionate Software Developer on the journey to becoming a Software Engineer. Currently, I'm a Quality Assurance Engineer. My hobbies include creating video game-inspired projects, and creating awe-inspiring tools.
+    Currently, I'm a Quality Assurance Engineer for a finance company on a journey to become a Software Engineer. My hobbies include developing video games, and creating tools that can allow quality of life improvements! 
 </p>
 
 <h3 align="center">📚 Currently Working On 📚</h3>
